@@ -1,0 +1,7 @@
+import React from 'react';
+StylesName
+const DefaultComponent = () => {
+  return ();
+}
+
+export default DefaultComponent; 

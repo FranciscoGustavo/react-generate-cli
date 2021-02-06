@@ -1,0 +1,6 @@
+{
+  "path": "./src",
+  "styledComponents": false,
+  "css": true,
+  "flat": true
+}
